@@ -26,3 +26,15 @@ To run this notebook, you need to set up Google Colab secrets ("🔑" icon in th
 
 1. `nvidia_key`: Your personal API Key from the [Nvidia API Catalog](https://developer.nvidia.com/nim).
 2. `serper`: Your API Key from [Serper.dev](https://serper.dev) for Google search queries.
+
+### Base UI
+<img width="955" height="524" alt="Screenshot 2026-10-09 161751" src="https://github.com/user-attachments/assets/121502a7-bdb7-49b0-9a6e-1cf77f30ab28" />
+
+### Query 1 - RAG Response
+<img width="953" height="530" alt="Screenshot 2026-10-09 161944" src="https://github.com/user-attachments/assets/e1d357a7-fd4c-47fe-866f-a07b02a0617b" />
+
+### Query 2 - Response via Internet Search
+<img width="953" height="529" alt="Screenshot 2026-10-09 162213" src="https://github.com/user-attachments/assets/9d5f8b50-05cc-41b5-8c4b-ba29e061cd99" />
+
+
+
